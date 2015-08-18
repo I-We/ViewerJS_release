@@ -1,0 +1,8 @@
+#titlebar {
+  display: none;
+  height: 0;
+}
+
+#canvasContainer {
+  top: 0;
+}
